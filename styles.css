@@ -87,12 +87,12 @@ footer {
 
 .card-front-1 {
     background: #e12729; 
-    color: white;
+    color: black;
 }
 
 .card-back-1 {
     background: #e12729;
-    color: white;
+    color: black;
     transform: rotateY(180deg);
 }
 
